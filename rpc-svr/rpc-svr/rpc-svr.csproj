@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <RootNamespace>rpc_svr</RootNamespace>
+    <ApplicationIcon>lamborghini48.ico</ApplicationIcon>
+    <Configurations>Debug;Release;DebugTest</Configurations>
+    <StartupObject>rpc_svr.Program</StartupObject>
+  </PropertyGroup>
+
+</Project>
